@@ -49,7 +49,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'drf_yasg',
     'listings',
-    'django_seeds',
+    'django_seed',
 ]
 
 MIDDLEWARE = [
